@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+  font-family: "Noto Sans Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:inherit;
+  font-size: 16px;
+  color: #717171;
+}
+@theme {
+  --breakpoint-md: 510px;
+  --breakpoint-tablet: 960px;
+  --breakpoint-laptop: 1200px;
+}
